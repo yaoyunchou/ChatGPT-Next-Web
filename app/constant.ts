@@ -75,7 +75,7 @@ export enum ModelProvider {
 }
 
 export const OpenaiPath = {
-~
+
 };
 
 export const Azure = {
